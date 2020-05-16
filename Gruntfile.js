@@ -19,7 +19,7 @@ module.exports = function (grunt) {
                 sourceAll: 'src/**/*',
 
                 build: 'build/',
-                buildAll: 'build/**/s*',
+                buildAll: 'build/**/s*qqwe',
 
                 test: 'test/',
                 testAll: 'test/**/*',
